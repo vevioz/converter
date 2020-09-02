@@ -22,13 +22,11 @@ ex: <strike>&lt;iframe sandbox="allow-scripts allow-same-origin"...</strike>
 </p>
 <h2><i class="fa fa-code" aria-hidden="true"></i> Demo & Iframe API</h2>
 <h3><i class="fa fa-check-square" aria-hidden="true"></i> MP3 Button</h3>
-<iframe class="button-api-frame" src="https://api.vevioz.com/@api/button/mp3/2fHgPAW2SFo" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
 <div class="code">&lt;iframe class="button-api-frame" src="https://api.vevioz.com/@api/button/mp3/<span class="red">YOUTUBE-ID</span>" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none">"&gt;&lt;/iframe&gt;</div>
 <u><b>Parameters:</b></u><br>
 <br>
 <b><span class="red">YOUTUBE-ID</span></b> is any valid YouTube video ID.<br>
 <h3><i class="fa fa-check-square" aria-hidden="true"></i> MP4 Button (Under Development)</h3>
-<iframe class="button-api-frame" src="https://api.vevioz.com/@api/button/mp3/2fHgPAW2SFo" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>
 <div class="code">&lt;iframe class="button-api-frame" src="https://api.vevioz.com/@api/button/videos/<span class="red">YOUTUBE-ID</span>" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none">"&gt;&lt;/iframe&gt;</div>
 <p><u><b>Parameters:</b></u><br>
 <br>
