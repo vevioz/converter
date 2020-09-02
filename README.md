@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<h1><a href="/" title="Home api.vevioz.com">YouTube to mp3 API</a></h1>
+<h1><a href="https://api.vevioz.com" title="Home api.vevioz.com">YouTube to mp3 API</a></h1>
 <div class="h1p"><em>Developer Tools Youtube to MP3 & MP4</em></div>
 <div id="separator"></div>
 <div id="text">
@@ -31,7 +31,7 @@ ex: <strike>&lt;iframe sandbox="allow-scripts allow-same-origin"...</strike>
 <p><u><b>Parameters:</b></u><br>
 <br>
 <b><span class="red">YOUTUBE-ID</span></b> is any valid YouTube video ID.<br><br>
-<i>Thank you for using <a href="/">youtube to mp3</a> converter!</i>
+<i>Thank you for using <a href="https://api.vevioz.com">youtube to mp3</a> converter!</i>
 </p>
 </div>
 </div>
@@ -40,7 +40,7 @@ ex: <strike>&lt;iframe sandbox="allow-scripts allow-same-origin"...</strike>
 &copy; Api.vevioz.com 2020
 </p>
 <p>
-<a href="/">Home</a>
+<a href="https://api.vevioz.com">Home</a>
 </p>
 </div>
 </body>
